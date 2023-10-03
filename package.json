@@ -1,7 +1,6 @@
 {
   "name": "travel-consultancy-app",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +10,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client \""
   },
   "keywords": [],
-  "author": "rivalrana",
+  "author": "Rahul Prajapati",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -24,5 +23,7 @@
     "mongoose": "^7.4.0",
     "morgan": "^1.10.0",
     "nodemon": "^3.0.1"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
